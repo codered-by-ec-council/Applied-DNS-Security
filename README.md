@@ -1,2 +1,2 @@
-# Applied-DNS-Security
-Applied DNS Security, by EC-Council
+# Big-Data-Analysis-with-Splunk
+Big Data Analysis with Splunk, by EC-Council
